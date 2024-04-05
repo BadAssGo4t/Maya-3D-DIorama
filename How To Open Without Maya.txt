@@ -1,0 +1,5 @@
+https://3dviewer.net
+Using that page drag the files corresponding to the model.
+ 
+In case Of the Diorama Drag into it: 
+the 3D Folder + UV Folder 
